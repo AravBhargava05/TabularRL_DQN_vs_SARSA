@@ -6,7 +6,7 @@ The goal is not “highest score.” The point is to show how different update r
 
 ---
 
-## What this shows (one sentence)
+## What this shows
 
 Q-Learning often learns **riskier, reward-maximizing** behavior, while SARSA often learns **safer** behavior because it updates based on the actions it actually takes during exploration.
 
